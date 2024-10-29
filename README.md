@@ -1,1 +1,1 @@
-# geosquad
+# Geosquad
